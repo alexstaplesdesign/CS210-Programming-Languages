@@ -1,6 +1,11 @@
-# Corner Grocer — Item Frequency Tracker
+<div align="center">
 
-CS210 coursework (SNHU). A menu-driven C++ console app that reads a
+# CS210 Programming Languages
+## Corner Grocer: Item Frequency Tracker
+
+</div>
+
+A menu-driven C++ console app that reads a
 plain-text transaction log and reports how often each grocery item appears.
 
 ## What it does
